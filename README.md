@@ -1,3 +1,3 @@
-# goit-markup-hw-01
+# goit-24-markup-hw-01
 
 Основы HTML. Часть 1 + Основы HTML. Часть 2
