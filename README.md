@@ -2,8 +2,6 @@
 
 Основы HTML. Часть 1 + Основы HTML. Часть 2
 
-~~~~~
-
 **Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
 [English](README.en.md), [Spanish](README.es.md), [Polish](README.pl.md).**
 
