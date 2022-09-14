@@ -5,7 +5,8 @@
 Template:
 https://www.figma.com/file/MXH6NI9ZA8u9GS0fGChENn/Web-Studio?node-id=0%3A1
 
-Task: https://github.com/goitacademy/html-css-homework
+Task:
+https://github.com/goitacademy/html-css-homework
 https://github.com/goitacademy/html-css-homework/blob/master/1-html/README.en.md
 
 **Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
